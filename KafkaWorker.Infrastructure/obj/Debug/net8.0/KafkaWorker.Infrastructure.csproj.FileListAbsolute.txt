@@ -1,0 +1,15 @@
+E:\Projetos\Kafka_dotnet\KafkaWorkerConsumer\KafkaWorker.Infrastructure\obj\Debug\net8.0\KafkaWorker.Infrastructure.csproj.AssemblyReference.cache
+E:\Projetos\Kafka_dotnet\KafkaWorkerConsumer\KafkaWorker.Infrastructure\obj\Debug\net8.0\KafkaWorker.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\Kafka_dotnet\KafkaWorkerConsumer\KafkaWorker.Infrastructure\obj\Debug\net8.0\KafkaWorker.Infrastructure.AssemblyInfoInputs.cache
+E:\Projetos\Kafka_dotnet\KafkaWorkerConsumer\KafkaWorker.Infrastructure\obj\Debug\net8.0\KafkaWorker.Infrastructure.AssemblyInfo.cs
+E:\Projetos\Kafka_dotnet\KafkaWorkerConsumer\KafkaWorker.Infrastructure\obj\Debug\net8.0\KafkaWorker.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Projetos\Kafka_dotnet\KafkaWorkerConsumer\KafkaWorker.Infrastructure\bin\Debug\net8.0\KafkaWorker.Infrastructure.deps.json
+E:\Projetos\Kafka_dotnet\KafkaWorkerConsumer\KafkaWorker.Infrastructure\bin\Debug\net8.0\KafkaWorker.Infrastructure.dll
+E:\Projetos\Kafka_dotnet\KafkaWorkerConsumer\KafkaWorker.Infrastructure\bin\Debug\net8.0\KafkaWorker.Infrastructure.pdb
+E:\Projetos\Kafka_dotnet\KafkaWorkerConsumer\KafkaWorker.Infrastructure\bin\Debug\net8.0\KafkaWorker.Domain.dll
+E:\Projetos\Kafka_dotnet\KafkaWorkerConsumer\KafkaWorker.Infrastructure\bin\Debug\net8.0\KafkaWorker.Domain.pdb
+E:\Projetos\Kafka_dotnet\KafkaWorkerConsumer\KafkaWorker.Infrastructure\obj\Debug\net8.0\KafkaWor.3C694B7E.Up2Date
+E:\Projetos\Kafka_dotnet\KafkaWorkerConsumer\KafkaWorker.Infrastructure\obj\Debug\net8.0\KafkaWorker.Infrastructure.dll
+E:\Projetos\Kafka_dotnet\KafkaWorkerConsumer\KafkaWorker.Infrastructure\obj\Debug\net8.0\refint\KafkaWorker.Infrastructure.dll
+E:\Projetos\Kafka_dotnet\KafkaWorkerConsumer\KafkaWorker.Infrastructure\obj\Debug\net8.0\KafkaWorker.Infrastructure.pdb
+E:\Projetos\Kafka_dotnet\KafkaWorkerConsumer\KafkaWorker.Infrastructure\obj\Debug\net8.0\ref\KafkaWorker.Infrastructure.dll

@@ -1,0 +1,17 @@
+E:\Projetos\Kafka_dotnet\KafkaWorkerConsumer\KafkaWorker.Application\obj\Debug\net8.0\KafkaWorker.Application.csproj.AssemblyReference.cache
+E:\Projetos\Kafka_dotnet\KafkaWorkerConsumer\KafkaWorker.Application\obj\Debug\net8.0\KafkaWorker.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\Kafka_dotnet\KafkaWorkerConsumer\KafkaWorker.Application\obj\Debug\net8.0\KafkaWorker.Application.AssemblyInfoInputs.cache
+E:\Projetos\Kafka_dotnet\KafkaWorkerConsumer\KafkaWorker.Application\obj\Debug\net8.0\KafkaWorker.Application.AssemblyInfo.cs
+E:\Projetos\Kafka_dotnet\KafkaWorkerConsumer\KafkaWorker.Application\obj\Debug\net8.0\KafkaWorker.Application.csproj.CoreCompileInputs.cache
+E:\Projetos\Kafka_dotnet\KafkaWorkerConsumer\KafkaWorker.Application\bin\Debug\net8.0\KafkaWorker.Application.deps.json
+E:\Projetos\Kafka_dotnet\KafkaWorkerConsumer\KafkaWorker.Application\bin\Debug\net8.0\KafkaWorker.Application.dll
+E:\Projetos\Kafka_dotnet\KafkaWorkerConsumer\KafkaWorker.Application\bin\Debug\net8.0\KafkaWorker.Application.pdb
+E:\Projetos\Kafka_dotnet\KafkaWorkerConsumer\KafkaWorker.Application\bin\Debug\net8.0\KafkaWorker.Domain.dll
+E:\Projetos\Kafka_dotnet\KafkaWorkerConsumer\KafkaWorker.Application\bin\Debug\net8.0\KafkaWorker.Infrastructure.dll
+E:\Projetos\Kafka_dotnet\KafkaWorkerConsumer\KafkaWorker.Application\bin\Debug\net8.0\KafkaWorker.Domain.pdb
+E:\Projetos\Kafka_dotnet\KafkaWorkerConsumer\KafkaWorker.Application\bin\Debug\net8.0\KafkaWorker.Infrastructure.pdb
+E:\Projetos\Kafka_dotnet\KafkaWorkerConsumer\KafkaWorker.Application\obj\Debug\net8.0\KafkaWor.F5F3233B.Up2Date
+E:\Projetos\Kafka_dotnet\KafkaWorkerConsumer\KafkaWorker.Application\obj\Debug\net8.0\KafkaWorker.Application.dll
+E:\Projetos\Kafka_dotnet\KafkaWorkerConsumer\KafkaWorker.Application\obj\Debug\net8.0\refint\KafkaWorker.Application.dll
+E:\Projetos\Kafka_dotnet\KafkaWorkerConsumer\KafkaWorker.Application\obj\Debug\net8.0\KafkaWorker.Application.pdb
+E:\Projetos\Kafka_dotnet\KafkaWorkerConsumer\KafkaWorker.Application\obj\Debug\net8.0\ref\KafkaWorker.Application.dll
